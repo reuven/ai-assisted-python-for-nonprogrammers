@@ -1,6 +1,6 @@
 # Notes, programs, and files
 
-This repo contains the exercise solutions from my book, "AI-Assisted Python for Nonprogrammers."
+This repo contains the exercise solutions from my book, "AI-Assisted Python for Nonprogrammers." You can download them from the zipfile here (ai-nonprogrammers-exercises.zip).
 
 But **please** don't read the exercises before you actually try them! You'll learn so much more by writing them, making mistakes along the way, and correcting those mistakes.
 
